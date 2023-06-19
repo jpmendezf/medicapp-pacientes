@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>887088986799-n15gvm568214ajvdap7id82q0jjtcjnf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.887088986799-n15gvm568214ajvdap7id82q0jjtcjnf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>887088986799-6b82ij6uukn53aj3a09hp9iq8k5dld2p.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-uDvIUZlbV3vWEbDaA3ZFzXLa21iDrMg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>887088986799</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.saansmonks.doctro.patient</string>
+	<key>PROJECT_ID</key>
+	<string>doctrodoctor-f8df3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doctrodoctor-f8df3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:887088986799:ios:bbc4e2ccd55bad9da8325a</string>
+</dict>
+</plist>
